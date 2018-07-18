@@ -1,4 +1,8 @@
 //hi I am  ranadhir
 
-print("Hello World")
+print("Ranadhir is a geek")
+a= 24
+b= 44
+c= b/a
+print(c)
 
